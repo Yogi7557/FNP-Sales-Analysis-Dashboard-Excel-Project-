@@ -1,7 +1,15 @@
 # FNP-Sales-Analysis-Dashboard-Excel-Project-
 
-## Dashboard Overview
+## 📊 Dashboard Overview
 
-This project includes an **interactive Excel dashboard** designed to analyze sales performance and customer behavior. The dashboard provides a clear view of key business metrics such as **total orders, total revenue, average customer spending, and order-to-delivery time**.
+An **interactive and dynamic Excel dashboard** was developed to transform raw sales data into meaningful business insights. The dashboard provides a quick and clear view of key performance indicators such as **Total Orders, Total Revenue, Average Customer Spending, and Order–Delivery Time**.
 
-It also enables analysis of **revenue by occasion, product category, month, and city**, helping identify seasonal demand patterns, top-performing products, and core markets. Interactive filters and slicers allow users to explore the data dynamically and gain actionable insights for **marketing, inventory planning, and business strategy**.
+With the help of **charts, pivot tables, and slicers**, the dashboard enables users to explore:
+
+- Revenue trends by **occasion, category, and month**
+- **Top-performing products** and high-demand cities
+- **Seasonal sales patterns** and peak ordering periods
+- Customer purchasing behavior and spending trends
+
+This dashboard helps stakeholders **monitor performance, identify opportunities, and support data-driven decision making** in marketing, inventory planning, and operations.
+
